@@ -1,8 +1,3 @@
-## Hi Everyone! I'm Ilham 👋
-
-<!--
-**eihamm505/eihamm505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 This is my personal site, which is used to upload some of my projects.<br><br>
 
