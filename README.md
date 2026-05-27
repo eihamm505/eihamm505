@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning **Language Progaming**
+📫 How to reach me: On Instagram **@eihamm505**
+😄 Pronouns: **Guy/Guys**
+⚡ Fun fact: **My favorite hobby is studying in a relaxed manner**
+
