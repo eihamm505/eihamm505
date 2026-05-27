@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone! I'm Ilham 👋
 
 <!--
 **eihamm505/eihamm505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🌱 I’m currently learning **Language Progaming**
--📫 How to reach me: On Instagram **@eihamm505**
--😄 Pronouns: **Guy/Guys**
--⚡ Fun fact: **My favorite hobby is studying in a relaxed manner**
+
+- 🌱 I’m currently learning **Language Progaming**
+- 📫 How to reach me: On Instagram **@eihamm505**
+- 😄 Pronouns: **Guy/Guys**
+- ⚡ Fun fact: **My favorite hobby is studying in a relaxed manner**
 
